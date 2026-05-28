@@ -7,7 +7,7 @@ For complete information visit: www.freakflagsprite.com
 ******************************************************/
 
 .lzflag {
-    background-image:url(/wp-content/plugins/loginizer-security/assets/images/flags.png);
+    background-image:url('../../../../../wp-content/plugins/loginizer-security/assets/images/flags.png');
     background-repeat:no-repeat;
     background-size: 100% 49494%;
     display: inline-block;

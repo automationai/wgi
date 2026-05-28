@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- This sitemap was dynamically generated on May 28, 2026 at 6:04 pm by All in One SEO v4.9.6.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/wgi/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc><![CDATA[/post-sitemap.xml]]></loc>
+		<loc><![CDATA[/wgi/post-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-01-17T16:56:51+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[/page-sitemap.xml]]></loc>
+		<loc><![CDATA[/wgi/page-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-05-28T01:06:14+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[/category-sitemap.xml]]></loc>
+		<loc><![CDATA[/wgi/category-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-01-17T16:56:51+00:00]]></lastmod>
 	</sitemap>
 </sitemapindex>

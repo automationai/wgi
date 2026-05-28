@@ -165,7 +165,7 @@ width: 21px;
 }
 
 .pagelayer-splash{
-background-image:url(/wp-content/plugins/pagelayer/images/splash.png);
+background-image:url('../../../../wp-content/plugins/pagelayer/images/splash.png');
 height:30px;
 background-position: center center;
 background-repeat: no-repeat;
@@ -173,12 +173,12 @@ background-size: cover;
 }
 
 .pagelayer-space-holder{
-background:url(/wp-content/plugins/pagelayer/images/space.png);
+background:url('../../../../wp-content/plugins/pagelayer/images/space.png');
 background-repeat:repeat;
 }
 
 .pagelayer-anchor{
-background-image:url(/wp-content/plugins/pagelayer/images/anchor.png);
+background-image:url('../../../../wp-content/plugins/pagelayer/images/anchor.png');
 height:30px;
 background-position: center center;
 background-repeat: no-repeat;

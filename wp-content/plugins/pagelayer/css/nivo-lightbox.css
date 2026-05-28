@@ -217,7 +217,7 @@
 	background: #666;
 	background: rgba(0,0,0,0.6); 
 }
-.nivo-lightbox-theme-default .nivo-lightbox-content.nivo-lightbox-loading { background: url(/wp-content/plugins/pagelayer/images/nivo-icons/loading.gif) no-repeat 50% 50%; }
+.nivo-lightbox-theme-default .nivo-lightbox-content.nivo-lightbox-loading { background: url('../../../../wp-content/plugins/pagelayer/images/nivo-icons/loading.gif') no-repeat 50% 50%; }
 
 .nivo-lightbox-theme-default .nivo-lightbox-nav {
 	top: 10%;
@@ -233,17 +233,17 @@
 	background-color: rgba(0,0,0,0.5);
 }
 .nivo-lightbox-theme-default .nivo-lightbox-prev { 
-	background-image: url(/wp-content/plugins/pagelayer/images/nivo-icons/prev.png); 
+	background-image: url('../../../../wp-content/plugins/pagelayer/images/nivo-icons/prev.png'); 
 	border-radius: 0 3px 3px 0;
 }
 .nivo-lightbox-theme-default .nivo-lightbox-next { 
-	background-image: url(/wp-content/plugins/pagelayer/images/nivo-icons/next.png); 
+	background-image: url('../../../../wp-content/plugins/pagelayer/images/nivo-icons/next.png'); 
 	border-radius: 3px 0 0 3px;
 }
 
 .nivo-lightbox-theme-default .nivo-lightbox-close {
 	display: block;
-	background: url(/wp-content/plugins/pagelayer/images/nivo-icons/close.png) no-repeat;
+	background: url('../../../../wp-content/plugins/pagelayer/images/nivo-icons/close.png') no-repeat;
 	width: 48px;
 	height: 48px;
 	text-indent: -9999px;
@@ -283,22 +283,22 @@
        (min-resolution: 1.3dppx) {
 
 	.nivo-lightbox-theme-default .nivo-lightbox-content.nivo-lightbox-loading { 
-		background-image: url(/wp-content/plugins/pagelayer/images/nivo-icons/loading@2x.gif); 
+		background-image: url('../../../../wp-content/plugins/pagelayer/images/nivo-icons/loading@2x.gif'); 
 		-webkit-background-size: 32px 32px; 
 		        background-size: 32px 32px;
 	}
 	.nivo-lightbox-theme-default .nivo-lightbox-prev { 
-		background-image: url(/wp-content/plugins/pagelayer/images/nivo-icons/prev@2x.png); 
+		background-image: url('../../../../wp-content/plugins/pagelayer/images/nivo-icons/prev@2x.png'); 
 		-webkit-background-size: 48px 48px; 
 		        background-size: 48px 48px;
 	}
 	.nivo-lightbox-theme-default .nivo-lightbox-next { 
-		background-image: url(/wp-content/plugins/pagelayer/images/nivo-icons/next@2x.png); 
+		background-image: url('../../../../wp-content/plugins/pagelayer/images/nivo-icons/next@2x.png'); 
 		-webkit-background-size: 48px 48px; 
 		        background-size: 48px 48px;
 	}
 	.nivo-lightbox-theme-default .nivo-lightbox-close { 
-		background-image: url(/wp-content/plugins/pagelayer/images/nivo-icons/close@2x.png); 
+		background-image: url('../../../../wp-content/plugins/pagelayer/images/nivo-icons/close@2x.png'); 
 		-webkit-background-size: 16px 16px; 
 		        background-size: 16px 16px;
 	}
