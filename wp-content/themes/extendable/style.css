@@ -98,6 +98,9 @@ a:active {
 	.has-modal-open .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-page-list {
 		align-items: flex-start !important;
 	}
+	.wp-block-site-title {
+		font-size: 0.8rem !important;
+	}
 }
 
 .wp-block-navigation__responsive-container.has-modal-open.is-menu-open .site-logo-title {
