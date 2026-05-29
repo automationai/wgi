@@ -98,8 +98,12 @@ a:active {
 	.has-modal-open .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__responsive-container-content .wp-block-page-list {
 		align-items: flex-start !important;
 	}
+	.wp-block-site-logo.is-default-size img {
+		max-height: 48px !important;
+	}
 	.wp-block-site-title {
-		font-size: 0.8rem !important;
+		font-size: 0.85rem !important;
+		line-height: 1.2 !important;
 	}
 }
 
@@ -278,7 +282,7 @@ blockquote:is(.is-style-plain) {
 
 .block-editor-block-list__block.wp-block.is-default-size.wp-block-site-logo .components-resizable-box__container,
 .wp-block-site-logo.is-default-size img {
-    max-height: 96px !important;
+    max-height: 72px !important;
     height: auto !important;
     width: auto !important;
 }
