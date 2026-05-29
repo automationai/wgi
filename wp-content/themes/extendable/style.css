@@ -554,14 +554,3 @@ input, textarea {
     pointer-events: none;
     z-index: 1;
 }
-
-/* Fix Gutenberg columns vertical alignment override bug */
-.wp-block-columns.are-vertically-aligned-center {
-	align-items: center !important;
-}
-.wp-block-columns.are-vertically-aligned-top {
-	align-items: flex-start !important;
-}
-.wp-block-columns.are-vertically-aligned-bottom {
-	align-items: flex-end !important;
-}
